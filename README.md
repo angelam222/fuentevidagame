@@ -17,11 +17,9 @@ body{
 
     font-family:Arial, Helvetica, sans-serif;
 
-    /* degradado que pediste */
     background: linear-gradient(135deg,#6495ED,#A9A9A9);
 }
 
-/* estilo tipo friv */
 .titulo{
     font-size:90px;
     color:#39ff14;
